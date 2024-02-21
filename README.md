@@ -1,1 +1,1 @@
-# aws_hands_on
+# aws-orient
